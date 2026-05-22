@@ -31,5 +31,5 @@ I'm also working toward building my own OS.
 
 ```txt
 Languages:   Python, JavaScript, HTML, C++, CSS
-Interests:   Operating Systems, Tooling, Game Dev, Icons
+Interests:   Operating Systems, Utilities, Game Dev, Icons, Apps
 Tools:       Git, Blender, Figma, VS Code
