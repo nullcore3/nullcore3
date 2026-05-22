@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm NullCore3 👋
 
-<!--
-**nullcore3/nullcore3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building strange things so the computer gods stay entertained.
 
-Here are some ideas to get you started:
+I'm a developer who spends too much time making tools, andf perfecting slight detials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Current Projects
+
+### 🔨 Forgedy
+A project I'm actively building and expanding.  
+Focused on creating powerful tools, systems, and infrastructure with a clean developer experience.
+
+I'm also looking for collaborators on Forgedy, especially people interested in:
+- frontend / UI
+- backend systems
+- tooling
+- performance optimization
+- low-level programming
+- experimental ideas that sound questionable at 2AM but somehow work
+
+If you like building ambitious stuff, feel free to reach out.
+
+---
+
+### 💻 Operating System Project
+I'm also working toward building my own OS.
+
+---
+
+## 🛠 Tech & Interests
+
+```txt
+Languages:   Python, JavaScript, HTML, C++, CSS
+Interests:   Operating Systems, Tooling, Game Dev, Icons
+Tools:       Git, Blender, Figma, VS Code
