@@ -4,9 +4,9 @@
 
 I'm a developer who spends too much time making tools, andf perfecting slight detials
 
-##  Current Projects
+#  Current Projects
 
-### 🔨 Forgedy
+## <img width="25" height="25" alt="icon-no-bg" src="https://github.com/user-attachments/assets/c33881e2-dc1a-43cb-8151-eaf2c3b92ef3" /> Forgedy
 A project I'm actively building and expanding.  
 Focused on creating powerful tools, systems, and infrastructure with a clean developer experience.
 
