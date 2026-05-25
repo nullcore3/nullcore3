@@ -1,8 +1,6 @@
 # Hey, I'm NullCore3 👋
 
-> Building strange things so the computer gods stay entertained.
-
-I'm a developer who spends too much time making tools, andf perfecting slight detials
+> I'm a developer who spends too much time making tools, and perfecting slight detais
 
 #  Current Projects
 
