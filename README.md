@@ -2,13 +2,13 @@
 
 ### A budding Python developer
 
-- 🔭 I'm currently working on **Forgedy - A python app with practically every tool you could ever need in.**
+-  I'm currently working on **Forgedy - A python app with practically every tool you could ever need in.**
 
-- 🌱 I'm currently learning **C++ and Javascript**
+-  I'm currently learning **C++ and Javascript**
 
-- 👯 I'm looking to collaborate on **Forgedy**
+-  I'm looking to collaborate on **Forgedy**
 
-- 💬 Ask me about **CustomTkinker**
+-  Ask me about **CustomTkinker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
