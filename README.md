@@ -1,33 +1,24 @@
-# Hey, I'm NullCore3 👋
+# Hey, I'm Nullcore3
 
-> I'm a developer who spends too much time making tools, and perfecting slight detais
+### A budding Python developer
 
-#  Current Projects
+- 🔭 I'm currently working on **Forgedy - A python app with practically every tool you could ever need in.**
 
-## <img width="25" height="25" alt="icon-no-bg" src="https://github.com/user-attachments/assets/c33881e2-dc1a-43cb-8151-eaf2c3b92ef3" /> Forgedy
-A project I'm actively building and expanding.  
-Focused on creating powerful tools, systems, and infrastructure with a clean developer experience.
+- 🌱 I'm currently learning **C++ and Javascript**
 
-I'm also looking for collaborators on Forgedy, especially people interested in:
-- frontend / UI
-- backend systems
-- tooling
-- performance optimization
-- low-level programming
-- experimental ideas that sound questionable at 2AM but somehow work
+- 👯 I'm looking to collaborate on **Forgedy**
 
-If you like building ambitious stuff, feel free to reach out.
+- 💬 Ask me about **CustomTkinker**
 
----
+- 📫 How to reach me **lucaheyworth@gmail.com**
 
-### 💻 Operating System Project
-I'm also working toward building my own OS.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/nullcore3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nullcore3" height="30" width="40" /></a>
+<a href="https://dev.to/nullcore3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nullcore3" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29850672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29850672" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/invision" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
 
-## 🛠 Tech & Interests
-
-```txt
-Languages:   Python, JavaScript, HTML, C++, CSS
-Interests:   Operating Systems, Utilities, Game Dev, Icons, Apps
-Tools:       Git, Blender, Figma, VS Code
